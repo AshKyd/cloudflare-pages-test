@@ -1,0 +1,1 @@
+magick identify -list format 
